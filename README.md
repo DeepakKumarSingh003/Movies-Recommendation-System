@@ -13,3 +13,11 @@
 
 ![Screenshot (556)](https://user-images.githubusercontent.com/97119577/186506824-782c169b-3e12-4f99-b811-0b693dd76e6d.png)
 
+## Technologies Used
+   * Python
+   * Streamlit
+   * Heroku
+## File Brief
+ * 
+
+

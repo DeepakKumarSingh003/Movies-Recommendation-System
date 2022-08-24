@@ -18,6 +18,9 @@
    * Streamlit
    * Heroku
 ## File Brief
- * 
+ **1.TMDB_Movies_Recommender_system.ipynb**:- Data preprocessing and Machine learning part is here.
+ **2.app.py**:-Support Application.
+ **3.requirements.txt**:-System Dependencies.
+ 
 
 

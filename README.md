@@ -7,4 +7,9 @@
 
 * **The Image of movies are fetched using an API by TMDB**
   * This link will direct you to TMDB API:-https://www.themoviedb.org/documentation/api
-** 
+
+## Screenshots
+![Screenshot (555)](https://user-images.githubusercontent.com/97119577/186506763-fffeea56-1b33-4322-aa68-0b134fb0aa52.png)
+
+![Screenshot (556)](https://user-images.githubusercontent.com/97119577/186506824-782c169b-3e12-4f99-b811-0b693dd76e6d.png)
+

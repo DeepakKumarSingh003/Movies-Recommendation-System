@@ -19,8 +19,14 @@
    * Heroku
 ## File Brief
  **1.TMDB_Movies_Recommender_system.ipynb**:- Data preprocessing and Machine learning part is here.
- **2.app.py**:-Support Application.
- **3.requirements.txt**:-System Dependencies.
+ 
+ **2.app.py**:-Important Files that Support web Application.
+ 
+ **3.requirements.txt**:-System Dependencies for heroku.
+ 
+ **4.similarity.pkl**:-pickle file that provide similar movies based on cosine similarity.
+ 
+ **5.movies_list.pkl**:-pickle file that provide only important features required for function call.
  
 
 
